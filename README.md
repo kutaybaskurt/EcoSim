@@ -37,20 +37,6 @@ Assigning a unique ID to each animal also facilitates management. This makes it 
 
 These improvements ensure that the simulation operates smoothly, even in large-scale scenarios. As the number of animals increases and interactions intensify, the effects of these enhancements become even more pronounced, making the simulation both faster and more efficient.
 
-### UML class diagram
-
-![proje2](https://github.com/ATalhaTimur/Java_oop_multithread/assets/93510585/f83ab1ec-031a-4950-afb8-c9af5c95228b)
-
-![ProjectUml](https://github.com/ATalhaTimur/Java_oop_multithread/assets/93510585/085ef005-1309-40d2-b0a1-ad079c4bb2fb)
-
-Project Screenshots
-The project's runtime decreases significantly with JVM optimization.
-
-![Ekran görüntüsü 2024-03-14 041216](https://github.com/ATalhaTimur/Java_oop_multithread/assets/93510585/d6ac44f4-d0f2-42f2-83c3-e9f747df02e9)
-
-![Ekran görüntüsü 2024-03-14 040927](https://github.com/ATalhaTimur/Java_oop_multithread/assets/93510585/a5560f6b-5361-4283-a1a6-e15330ec4ae1)
-
-![Ekran görüntüsü 2024-03-14 043413](https://github.com/ATalhaTimur/Java_oop_multithread/assets/93510585/717e0af7-f890-4f6f-929d-76a42b1cd721)
 
 ### Situations Where the Project Does Not Work (if the project does not stop when executed)
 
